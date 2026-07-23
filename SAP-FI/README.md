@@ -1,22 +1,32 @@
-# SAP FI (Financial Accounting)
+## 📖 SAP Functional Modules
 
-## Overview
+| Module | Description |
+|---------|-------------|
+| [SAP FI](SAP-FI/README.md) | Financial Accounting |
+| SAP CO | Controlling |
+| SAP MM | Materials Management |
+| SAP SD | Sales & Distribution |
+| SAP PP | Production Planning |
+| SAP QM | Quality Management |
+| SAP PM | Plant Maintenance |
+| SAP PS | Project Systems |
+| SAP EWM | Extended Warehouse Management |
+| SAP TM | Transportation Management |
 
-SAP FI (Financial Accounting) is one of the core SAP modules used to manage an organization's financial transactions and reporting.
+## 💻 SAP Technical Modules
 
-## Purpose
+| Module | Description |
+|---------|-------------|
+| SAP ABAP | Programming Language |
+| SAP BASIS | System Administration |
+| SAP Fiori | User Experience |
+| SAP UI5 | Front-End Development |
+| SAP BTP | Business Technology Platform |
+| SAP CPI | Cloud Integration |
+| SAP S/4HANA | Next-Generation ERP |
 
-It helps organizations maintain accurate financial records and comply with accounting standards.
+---
 
-## Topics Covered
+## 📌 Project Status
 
-- What is SAP FI?
-- Key Features
-- Business Processes
-- Integration with Other Modules
-- Common Job Roles
-- Resume Keywords
-- Interview Questions
-- Learning Resources
-
-> 🚧 This page is under development.
+🚧 This repository is actively being updated with detailed guides for every SAP module.
